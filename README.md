@@ -9,4 +9,4 @@ Felices, estamos haciendo el readme en la clase.
 ###### Nivel 6 (H6)
 
 Imagen simple
-![Texto alternativo](Captura de pantalla 2026-02-20 222706.png)
+![Texto alternativo](Capturadepantalla2026-02-20222706.png)
