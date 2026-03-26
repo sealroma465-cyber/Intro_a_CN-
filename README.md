@@ -7,3 +7,6 @@ Felices, estamos haciendo el readme en la clase.
 #### Nivel 4 (H4)
 ##### Nivel 5 (H5)
 ###### Nivel 6 (H6)
+
+Imagen simple
+![Texto alternativo](carrito01.jpg)
