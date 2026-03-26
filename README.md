@@ -10,3 +10,7 @@ Felices, estamos haciendo el readme en la clase.
 
 Imagen simple
 ![Texto alternativo](633e388f693b9700fd199dbc.jpg)
+
+Imagen desde URL externa
+![Logo](https://github.com/sealroma465-cyber/Intro_a_CN-/blob/main/633e388f693b9700fd199dbc.jpg)
+
